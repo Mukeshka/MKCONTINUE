@@ -130,7 +130,13 @@ def hero():
 
 if(expirydate>today):
     now = datetime.datetime.now()
-     
+    First = now.replace()
+    Firstend = now.replace()
+   
+
+    if (now>First and now<Firstend):
+            period=Currnet
+  
     elif(True): Current
             period=Current
             hero()
