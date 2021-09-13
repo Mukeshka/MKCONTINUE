@@ -137,10 +137,28 @@ if(expirydate>today):
     if (now>First and now<Firstend):
             period=Currnet
   
-    elif(True): Current
-            period=Current
+   elif(True):
+            period=220
             hero()
-    else:
+   elif(True):
+            period=280
+            hero()
+    elif(True):
+            period=320
+            hero()
+    elif(True):
+            period=360
+            hero()
+    elif(True):
+            period=400
+            hero()
+    elif(True):
+            period=440
+            hero()
+    elif(True):
+            period=460
+            hero()
+   else:
         banner='figlet RXCE'
         print("Hi!! Thanks for buying the hack")
         
