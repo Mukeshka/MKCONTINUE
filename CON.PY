@@ -131,8 +131,8 @@ def hero():
 if(expirydate>today):
     now = datetime.datetime.now()
      
-    elif(True):
-            period=current
+    elif(True): Current
+            period=Current
             hero()
     else:
         banner='figlet RXCE'
